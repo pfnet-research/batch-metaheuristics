@@ -59,3 +59,6 @@ Optimization algorithms are initialized with the following arguments:
 Once you have created an instance of `Optimizer`, optimize with the `optimize` method.
 The argument of the optimize method is the objective function.
 **The Objective function needs to be a mapping from a 2D-array to a 1D-array.**
+
+## Reference:
+Reference implementation: https://github.com/thieu1995/mealpy
